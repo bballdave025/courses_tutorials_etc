@@ -1,1 +1,16 @@
-# nothing for now
+#@brief    A .gitignore file for a repo with Jupyter notebooks.
+#@file    .gitignore
+#@author  David Wallace BLACK
+#@since   2023-02-08
+
+.ipynb_checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints
+**/.ipynb_checkpoints/
+
+dl_fundamentals_deeplizard/.ipynb_checkpoints
+dl_fundamentals_deeplizard/.ipynb_checkpoints/
+dl_fundamentals_deeplizard/other_directions/.ipynb_checkpoints
+dl_fundamentals_deeplizard/other_directions/.ipynb_checkpoints/
+dl_fundamentals_deeplizard/other_paths/.ipynb_checkpoints
+dl_fundamentals_deeplizard/other_paths/.ipynb_checkpoints/
