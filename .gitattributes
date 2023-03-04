@@ -2,12 +2,11 @@
 #+ Created for a repo with Jupyter Notebooks in it.
 ##############################################################################
 #@file     .gitattributes
-#@author   David Wallace BLACK (dblack)
+#@author   David Wallace BLACK (bballdave025)
 #@since    2023-02-08
 # Mostly here to preserve *NIX-style line endings, which are very important
-# for GLM files the Bourne Again SHell (bash) files, ... The python files
-# don't care. It's really nice to have the example hyps and refs in this
-# format, though acuss should take care of those with no problem.
+#+ for certain data andtext files in the Bourne Again SHell (bash) files, 
+#+ ... The python files don't care.
 #
 #@ref : https://stackoverflow.com/a/59644154/6505499
 #@archived-ref = "https://web.archive.org/web/20200527202619/" + \
