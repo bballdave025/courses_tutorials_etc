@@ -22,5 +22,5 @@ I'll let the source explain [MyBinder](https://mybinder.org) ([archived](https:/
 
 ### An interactive, online version of the DeepLizard (YouTube) Intro to Deep Learning Notebook I'm Keeping
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bballdave025/courses_tutorials_etc/blob/main/dl_fundamentals_deeplizard/Intro_to_Deep_Learning_deeplizard_start_2023-02-06.ipynb/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bballdave025/courses_tutorials_etc/main)
 
