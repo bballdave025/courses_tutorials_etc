@@ -12,7 +12,9 @@ I'll let the source explain [MyBinder](https://mybinder.org) ([archived](https:/
 
 > |Notebook|Open|
 > |:--|:--|
-> |Welcome to Jupyter!|[![Binder](https://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/cms-opendata-education/cms-jupyter-materials-english/master?filepath=Introduction-to-jupyter/Welcome-to-Jupyter-Notebooks-intro.ipynb)|
+> |Welcome to Jupyter (from CERN)!|[![Binder](https://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/cms-opendata-education/cms-jupyter-materials-english/master?filepath=Introduction-to-jupyter/Welcome-to-Jupyter-Notebooks-intro.ipynb)|
+
+> [**Note from bballdave025**: the button above will take you to a CERN Notebook]
 
 > MyBinder works 99% of the time without problems, but it is still in beta and can sometimes be under active development. One alternative is to use Google's [Colab](https://colab.research.google.com), but that does require a google account log-in.
 
