@@ -16,5 +16,5 @@ I'll let the source explain [MyBinder](https://mybinder.org) ([archived](https:/
 
 > MyBinder works 99% of the time without problems, but it is still in beta and can sometimes be under active development. One alternative is to use Google's [Colab](https://colab.research.google.com), but that does require a google account log-in.
 
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bballdave025/courses_tutorials_etc/blob/main/dl_fundamentals_deeplizard/Intro_to_Deep_Learning_deeplizard_start_2023-02-06.ipynb/HEAD)
 
