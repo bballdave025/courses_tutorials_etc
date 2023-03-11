@@ -1,16 +1,23 @@
-#@brief    A .gitignore file for a repo with Jupyter notebooks.
+#@brief   A .gitignore file for a repo with Jupyter notebooks
 #@file    .gitignore
-#@author  David Wallace BLACK
+#@author  David BLACK  GH: @bballdave025
 #@since   2023-02-08
+#
+#  -v- In case this file gets copied to another repo without changing -v-
+#+ -v- this stuff, there will be a reference to the previous repo     -v-
+#@orig_repo  courses_tutorials_etc
+#@project    None for now
 
-.ipynb_checkpoints
-.ipynb_checkpoints/
+# Specific directories.
+#try-with-it-out#2023-03-01 115400-0700#.ipynb_checkpoints
+#try-with-it-out#2023-03-01 115400-0700#.ipynb_checkpoints/
 **/.ipynb_checkpoints
-**/.ipynb_checkpoints/
+#try-with-it-out#2023-03-01 115400-0700#**/.ipynb_checkpoints/
+**/__pycache__
 
-dl_fundamentals_deeplizard/.ipynb_checkpoints
-dl_fundamentals_deeplizard/.ipynb_checkpoints/
-dl_fundamentals_deeplizard/other_directions/.ipynb_checkpoints
-dl_fundamentals_deeplizard/other_directions/.ipynb_checkpoints/
-dl_fundamentals_deeplizard/other_paths/.ipynb_checkpoints
-dl_fundamentals_deeplizard/other_paths/.ipynb_checkpoints/
+#ditto#ditto#dl_fundamentals_deeplizard/.ipynb_checkpoints
+#ditto#ditto#dl_fundamentals_deeplizard/.ipynb_checkpoints/
+#ditto#ditto#dl_fundamentals_deeplizard/other_directions/.ipynb_checkpoints
+#ditto#ditto#dl_fundamentals_deeplizard/other_directions/.ipynb_checkpoints/
+#ditto#ditto#dl_fundamentals_deeplizard/other_paths/.ipynb_checkpoints
+#ditto#ditto#dl_fundamentals_deeplizard/other_paths/.ipynb_checkpoints/
