@@ -133,17 +133,11 @@
 ## Denote all files that are truly binary and should not be modified
 *.dll           binary
 *.exe           binary
-asclite         binary
-rfilter1        binary
-rover           binary
-sclite          binary
-sctkUnit        binary
-sc_stats        binary
 #*.pyc           binary  ## .gitignore shouldn't let any through, since
                          ## I don't use them in this project
-#no image files in package
-#no audio files in package
-#no video files in package
+#image files (none yet in the repo) 
+#audio files (none yet in the repo)
+#video files (none yet in the repo)
 
 
 ## The following extensions exist on files inside the .git directory.
