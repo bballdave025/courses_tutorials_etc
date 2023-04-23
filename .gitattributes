@@ -1,5 +1,5 @@
 # A general, hopefully informative .gitattributes file
-#+ Created for a repo with Jupyter Notebooks in it.
+#+ Created for a repo with Jupyter Notebooks in it, and python coming.
 ##############################################################################
 #@brief    A .gitattributes file for a repo with Jupyter Notebooks in it.
 #@file     .gitattributes
@@ -135,6 +135,7 @@
 *.exe           binary
 #*.pyc           binary  ## .gitignore shouldn't let any through, since
                          ## I don't use them in this project
+
 #image files (none yet in the repo) 
 #audio files (none yet in the repo)
 #video files (none yet in the repo)
