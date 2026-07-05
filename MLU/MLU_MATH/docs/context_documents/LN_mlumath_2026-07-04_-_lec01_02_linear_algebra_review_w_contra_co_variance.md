@@ -30,7 +30,10 @@ date +'%s_%Y-%m-%dT%H:%M:%S%z'
 (Boston, MA time)
 
 **Continued from chat:**
-MLU math / ADHD coaching / JabberVec / covariance-contravariance discussion
+
+ADHD Coaching and Burnout
+
+~~MLU math / ADHD coaching / JabberVec / covariance-contravariance discussion~~
 
 **Also involving:**
 - Anti-perfectionism lecture-note workflow
@@ -221,10 +224,10 @@ Important notes/questions:
 - Distances are lengths of connecting vectors.
 - Norms are nonnegative.
 - Triangle inequality is essential for true norms.
-- $L_p$ for $p < 1$ can be defined algebraically in some contexts but fails the triangle inequality, so it is not a true norm.
-- $L_1$ vs $L_2$ intuition:
-  - $L_2$: “Dave in class says, ‘you quiet down’” — smooth/shrinking penalty.
-  - $L_1$: “Dave says, ‘you, you, and you get out’” — sparsifying penalty.
+- $L^p$ for $p < 1$ can be defined algebraically in some contexts but fails the triangle inequality, so it is not a true norm.
+- $L^1$ vs $L^2$ intuition:
+  - $L^2$: “Dave in class says, ‘you quiet down, you really quiet down’” — smooth/shrinking penalty.
+  - $L^1$: “Dave says, ‘you, you, and you get out’” — sparsifying penalty.
 
 This metaphor should be refined later, but it captures the sparsity distinction.
 
@@ -287,7 +290,7 @@ Key insight:
 ReLU is surprisingly simple:
 
 $$
-\operatorname{ReLU}(x)=\max(0,x).
+\text{ReLU}(x)=\max(0,x).
 $$
 
 The astonishing fact is that repeated coordinate changes plus simple nonlinear bends can model highly complex phenomena.
@@ -389,7 +392,7 @@ The components $a^i$ are construction coefficients.
 If the basis doubles:
 
 $$
-\mathbf e'_i = 2\mathbf e_i,
+\mathbf {e'}_i = 2\mathbf e_i,
 $$
 
 then the components halve:
@@ -420,7 +423,7 @@ $$
 for unit basis vectors, and
 
 $$
-\mathbf e'_i = 2\hat{\mathbf e}_i
+\mathbf {e'}_i = 2\hat{\mathbf e}_i
 $$
 
 for a scaled non-unit basis vector.
@@ -451,8 +454,8 @@ Important interpretation:
 Example:
 
 $$
-\begin{bmatrix}1 & 0\end{bmatrix}
-\begin{bmatrix}2\\-6\end{bmatrix}
+\begin{bmatrix} 1 & 0 \end{bmatrix}
+\begin{bmatrix} 2 \\ -6 \end{bmatrix}
 =2.
 $$
 
